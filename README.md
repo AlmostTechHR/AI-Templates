@@ -7,6 +7,8 @@ Free to use, adapt, and build on — MIT licensed.
 
 ## Templates
 
+*More added as the series grows.*
+
 ### [Chief of Staff — Copilot Studio](chief-of-staff-copilot-studio.md)
 Build a personal AI Chief of Staff in Microsoft Copilot Studio. Gives you daily morning briefings, evening reflections, and honest feedback about how you're spending your time. Connects to your Outlook, Teams, and Calendar. Takes about an hour to set up.
 
