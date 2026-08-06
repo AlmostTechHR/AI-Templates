@@ -9,13 +9,26 @@ Free to use, adapt, and build on — MIT licensed.
 
 ## Skill Templates
 
-Prompts you paste directly into Claude (claude.ai or the Claude desktop app). No installation needed.
+Reusable instruction sets for Claude. Each one is a prompt you customize once and save — so Claude knows how to run it every time without you re-explaining.
 
-**How to use:**
+**How to use — pick one:**
+
+**Option A: Add it as a Skill (recommended)**
+Makes it available across all your Claude conversations. You invoke it by name.
 1. Open the template file and copy the prompt block
-2. Paste it into a new Claude conversation
-3. Fill in the sections marked with [BRACKETS] for your role and context
-4. Save it as a Project instruction in Claude so it's available every time — or paste it fresh each session
+2. Fill in the sections marked with [BRACKETS] for your role and context
+3. In Claude: go to **Settings → Skills → Create Skill**
+4. Paste your customized prompt as the skill instructions
+5. Name it (e.g. "War Council") and save
+6. Invoke it any time with: *"convene the council"* or whatever trigger phrase you set
+
+**Option B: Add it as a Project instruction**
+Best if you want it scoped to one project or workstream only.
+1. Open the template file and copy the prompt block
+2. Fill in the [BRACKETS]
+3. In Claude: open a **Project → Project instructions**
+4. Paste your customized prompt there
+5. Every conversation in that project will have it active automatically
 
 ### [War Council](skill-templates/war-council.md)
 A personal advisory panel you convene before committing to anything significant. Named advisor seats, a weighted rubric, and two modes: decision (score a specific choice) or standing (surface what you're avoiding). Adapted from Ryan Quindlen's War-Council framework.
