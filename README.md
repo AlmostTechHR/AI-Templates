@@ -33,6 +33,9 @@ Best if you want it scoped to one project or workstream only.
 ### [War Council](skill-templates/war-council.md)
 A personal advisory panel you convene before committing to anything significant. Named advisor seats, a weighted rubric, and two modes: decision (score a specific choice) or standing (surface what you're avoiding). Adapted from Ryan Quindlen's War-Council framework.
 
+### [Spec Builder](skill-templates/spec-builder.md)
+Turn any HR or people-ops idea into a one-page spec before you build anything. Produces an 11-line spec table (SPEC, INPUT, TRIGGER, OUTPUT, INSTRUCTIONS, KNOWLEDGE, MEMORY, CONTEXT, TOOLS, DONE, NOT ALLOWED), a step-by-step build path, and a governance check. Includes a worked example. Pairs with the War Council — spec the work, then decide if it deserves the hours.
+
 ---
 
 ## Agent Templates
