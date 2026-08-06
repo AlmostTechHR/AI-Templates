@@ -137,4 +137,4 @@ Here is what a completed spec looks like for a real HR use case — a manager nu
 
 ---
 
-*Template by Sandhiya Thiruvengadam · [#sandysnotesonai](https://www.linkedin.com/search/results/content/?keywords=%23sandysnotesonai) · MIT licensed*
+*Template by [Sandhiya Thiruvengadam](https://www.linkedin.com/in/sandhiyathiruvengadam/) · [#sandysnotesonai](https://www.linkedin.com/search/results/content/?keywords=%23sandysnotesonai) · MIT licensed*
